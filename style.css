@@ -1,0 +1,41 @@
+ body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+ }
+
+ .header {
+    display: flex;
+    justify-content: space-between;
+    background: #1F2937;
+    color: white;
+    align-items: center;
+    padding-left: 68px;
+    padding-right: 68px;
+    
+ }
+
+ a {
+    text-decoration: none;
+    color: white;
+ }
+
+ li {
+    list-style: none;
+ }
+
+ ul {
+    display: flex;
+    gap: 8px;
+ }
+
+ .right-links
+ {
+    
+ }
+ 
+ .mid {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+ }
