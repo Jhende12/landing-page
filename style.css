@@ -102,3 +102,29 @@
  .sig {
     text-align: right;
  }
+
+ .section4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+ }
+
+ .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #3882f6;
+    padding: 20px 50px;
+    gap: 16px;
+    
+ }
+
+ .footer {
+    background: #1F2937;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+ }
